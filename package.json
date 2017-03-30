@@ -1,0 +1,27 @@
+{
+  "name": "stats-lite-plus",
+  "version": "1.0.0",
+  "description": "A fairly light statistical package, base on stats-lite",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorts52/stats-lite-plus.git"
+  },
+  "keywords": [
+    "statistics",
+    "lite"
+  ],
+  "author": "kael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorts52/stats-lite-plus/issues"
+  },
+  "homepage": "https://github.com/yorts52/stats-lite-plus#readme",
+  "dependencies": {
+    "isnumber": "^1.0.0",
+    "stats-lite": "^2.0.4"
+  }
+}
